@@ -23,9 +23,8 @@ Tkinter
 numpy      
 
 **Usage**  
-**Clone the repository:**  
-git clone https://github.com/your-username/real-time-traffic-sign-recognition.git      
-
+**Clone the repository:**        
+gh repo clone rohitydv24/real-time-traffic-sign-recognition-system-using-cnn      
 **Contributions**      
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
